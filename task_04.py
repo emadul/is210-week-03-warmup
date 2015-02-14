@@ -5,4 +5,5 @@
 import task_03
 
 
-KLAXON = task_03.KLAXON
+KLAXON = slice = (task_03.KLAXON)
+print KLAXON * 5
