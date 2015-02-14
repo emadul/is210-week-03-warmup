@@ -4,3 +4,9 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
+
+KLAXON= slice = WILL_ROBINSON[:7]
+print WILL_ROBINSON
+print KLAXON
+
+
